@@ -1,0 +1,37 @@
+Job Title
+NLP Algorithm Engineer - TikTok e-Commerce
+
+About the job
+Responsibilities
+
+ TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+
+About the team
+The team committed to understand the massive video content from TikTok and its affiliates, e-Commerce products and addresses on the platform through computer vision, natural language processing, and other technologies. We aim to provide global consumers with both high-quality and abundant commodity supply and improve the compliance and efficiency of the logistics fulfilment services, empowering different parts of the e-commerce shopping system.
+
+- Responsible for the analysis and understanding of the massive addresses by natural language processing algorithm, empowering different parts of the e-commerce shopping system, including search/recommendation, transactions, and fulfillment, improving the shopping experience
+- Responsible for the analysis and understanding of the text information from massive e-commerce contents and products, mining shopping trends and product attribute recognition, etc.
+- Explore NLP-related cutting-edge technologies and apply them to e-commerce business scenarios
+- Support the production of scalable and optimised AI/machine learning (ML) models 
+- Focus on building algorithms for the extraction, transformation and loading of large volumes of realtime, unstructured data to deploy AI/ML solutions from theoretical data science models
+- Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process
+- Work in a team setting and apply knowledge in statistics, scripting and programming languages required by the firm
+- Work with the relevant software platforms in which the models are deployed 
+
+Qualifications
+
+ - Minimum 3 year of work experience in related fields
+- Solid foundation of NLP algorithm, have in-depth study and practical experience in a certain field of natural language processing, including but not limited to: text classification, similarity matching, dialogue question and answer, machine translation, sequence tagging, Knowledge Graph, intention understanding, word meaning disambiguation and other fields
+- Familiar with at least one framework of TensorFlow / PyTorch / MXNet and its training and deployment details, familiar with commonly used machine learning and deep learning algorithms, understand the basic network model structure and text representation methods
+- Have strong practical ability, winners in relevant competitions, and have papers published at top academic conferences (such as ACL, EMNLP, etc.) are preferred as well
+- Experiences in e-commerce address, content analysis, and product attribute analysis are preferred
+Familiar with big data-related frameworks and applications, those who are familiar with MR or Spark are preferred
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

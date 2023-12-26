@@ -1,0 +1,16 @@
+Denis Ivashkov, ivashkovdv@gmail.com | +374 441 801 92, LinkedIn
+
+Hi TikTok Team,
+
+I'm Denis and I couldn't be more excited about the NLP Algorithm Engineer position at TikTok e-Commerce. The intriguing nature of your e-commerce content analysis and the magic of bringing joy through creative videos are what I dig!
+
+I’m a ML Engineer with 6 years in the tech realm, starting as a Java developer, then shifting to ML engineering. Working for giants like AliExpress and Harman International, I've honed my skills in NLP and e-commerce.
+
+Delving into the job requirements, I’ve got the goods. Solid foundation in NLP? Check! At AliExpress, I teamed up with data scientists for a comprehensive offline product matching pipeline that boosted recall by 60%! Know TensorFlow/PyTorch/MXNet? Yes, Sir! My expertise in PyTorch and other tools like LightGBM, CatBoost, or XGBoost enabled me to enhance driver stress detection by 11% at Harman International.
+
+Your mission to inspire creativity and bring joy is thrilling and I admire how courageously your teams innovate. The vision to empower e-commerce shopping systems with AI resonates with my goals. I believe that my experience in big data frameworks and e-commerce sector could help take TikTok's shopping experience to the next level.
+
+Thank you for considering my application!
+
+Cheers,
+Denis

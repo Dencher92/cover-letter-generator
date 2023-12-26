@@ -1,0 +1,55 @@
+Denis Ivashkov
+Yerevan | +374 441 801 92 | ivashkovdv@gmail.com | LinkedIn
+ML engineer with over 6 years of experience in the tech industry. Initiated my career as a Java developer in the fintech sector, later transitioning into ML engineering, where I played a pivotal role in the development of products for international e-commerce giant AliExpress and the renowned global automotive leader Harman International. I've actively contributed to project work for AI services. Educational background encompasses a Master's degree in physics and technology.
+WORK EXPERIENCE
+2022 – present
+Senior ML Engineer
+HARMAN International, Yerevan
+Global leader in car audio and infotainment with over $8 billion in revenues
+Accomplishments:
+Enhanced driver stress detection accuracy by 11% with a wearable PPG sensor, showcasing an improvement in biometric analysis.
+Streamlined ML model validation, cutting down evaluation time from days to hours or minutes by refining validation algorithms.
+Established and maintained an internal seminar series for a year, delivering over 25 sessions to facilitate knowledge sharing among employees.
+07.2023 – 09.2023
+Senior ML Engineer (part time)
+Unleashing AI, Remote
+Startup brought over $1M in profit for the #1 search engine in Eastern Europe
+Accomplishments:
+Prototyped Contractor Invoice Verification System in the legal sector, overcoming data scarcity and tight deadlines. Delivered on time with a recall of 0.87 and a precision of 0.5, meeting client expectations.
+2019 – 2022
+
+
+ML Engineer
+AliExpress CIS, Moscow
+Global retail giant with hundreds of millions of users
+Accomplishments:
+Successfully collaborated with a team of data scientists to develop a comprehensive offline product matching pipeline, achieving a significant 60% increase in recall without compromising the stringent 95% precision benchmark.
+Led the creation and validation of a product title summarization model, resulting in a user preference rate of 78% over existing titles, including a 33% decisive win rate, while maintaining a remarkable 98% rate in factual accuracy.
+2018 – 2019
+ML Engineer
+Zarplata.ru, Novosibirsk – Top 3 job search site in Russia
+2017 – 2018
+
+
+Software Engineer
+Diasoft, Novosibirsk  – Leading financial software provider in Russia's banking sector
+
+EDUCATION
+2016
+
+
+National Research Tomsk Polytechnic University 
+Department of Nuclear Physics and Technologies, Master
+
+ADDITIONAL INFO
+Languages: English B2 (FCE Certificate), Russian native
+Technical Skills: Python, Java, PHP, LLM (BERT/GPT/T5-like), ChatGPT/GPT-4, PyTorch, Transformers, XGBoost, LightGBM, CatBoost, Linux, Docker, Bash, Postgre, Clickhouse, Airflow, MLflow, PySpark, MaxCompute, FAISS
+Certificates and trainings:
+2023, E-commerce Product Matching Competition, Moscow Innovation Agency, 4th place
+2023, Stable Diffusion – Image to Prompts, Kaggle, top 38%
+2019, IEEE-CIS Fraud Detection, Kaggle, top 10% (bronze medal)
+2023, Basics of Statistics, Bioinformatics Institute, Stepik 
+2022, System Design, Karpov Courses
+2020, Neural Networks and Computer Vision, Samsung, Stepik 
+2019, Math and Python for Data Analysis, Moscow Institute of Physics and Technology & Yandex, Coursera
+2018, Algorithmic Toolbox: Data Structures and Algorithms, University of California, Coursera 

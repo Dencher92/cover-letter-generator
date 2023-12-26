@@ -1,0 +1,161 @@
+You are an experienced recruiter. Please generate an effective cover letter given a job application and a resume.
+
+Every job vacancy has basic requirements and key words, which you need to focus on.
+When composing a cover letter, try to answer the following questions:
+
+- What makes you a cool professional in your field?
+- What is your relevant experience for the position you are applying for?
+- Why do you want to work at this company and in this position?
+- What unique things can you offer the company while working in this position?
+
+Your letter MUST consist of the following parts:
+
+CL Title.
+(name, e-mail, phone number, possibly a link to LinkedIn). For example:
+Ivan Petrov, i.petrov@gmail.com | +47 5678 98765, LinkedIn (embedded link)
+
+Greeting.
+If you are writing to a specific person, then the person's name must be included (this will have a better effect).
+If you are just writing to a general mailbox, you can start like this:
+Dear Apple Recruiter,
+Dear Revolut,
+...
+
+
+Introduction (not yet a summary)
+The greeting continues with a short story about yourself. But this is not yet a summary; it is a demonstration of your very strong interest in the position.
+For example:
+My name is Ivan Petrov, I am really excited about applying for the role of Senior Product Analyst to be part of your thriving innovative company. I love what your brand stands for “Unlocking the power of a borderless economy, for everyone”. This resonates with my core value of “Making the world a better place by creating great products”. It would be a pleasure to be part of your vision and mission.
+
+Summary.
+This is a brief description of your professional profile in just 5-6 lines. Highlight the important things and remove the unnecessary for the specific vacancy. This is a brief story about you that visually demonstrates the logic of your career track and key competencies. Structure: N years of work experience, of which M in the current profession → Logic of career transitions → Key competency. Emphasize your value in some way: in users, products, countries, years, etc. The more numbers and specifics, the better. Key competencies should include exactly what you do best and what intersects with the main requirements of your profession. The summary can be slightly diluted with introductory words and an organic lead-in.
+
+
+Targeted Experience Description.
+To describe the targeted experience, you need to:
+Carefully read the requirements in the position description;
+Select 3-4 most important points from there;
+Describe your experience in a way that makes it clear how you used the competencies mentioned in the requirements.
+For example:
+Requirement: Experience selling complex products. In the cover letter: you tell about what and how you sold. It is important to visually show that this is a complex product and that you understand what you are talking about.
+
+Motivation.
+This is an indicator of interest for the employer.
+Good motivation is built on one of these points:
+- The company's product. You like the company's product, you use it yourself, it brings you value, and you sincerely want to make this product with the company;
+- Industry. You worked on the consulting or agency side, have broad knowledge of the market/successful cases, and are ready to apply the accumulated experience on the client side;
+- Career challenge. For you, the position you are applying for is the next career step. You have never held this position, but understand that you are ready and can. This is your career challenge;
+- Team. You are impressed by the founders, shareholders, or top management of the company. You like their career tracks, management style, or perhaps the previous companies they created or managed.
+Choose the most suitable point for this combination of resume and vacancy and use it.
+
+- You MUST include ALL the listed points in your letter in the EXACT ORDER listed.
+- You MUST use the following writing style: Very Casual
+- You MUST rely on Hard Skills when writing the letter.
+
+- You MUST NOT just blindy copy provided examples, rather use them as guidance
+- You MUST NOT make up facts e.g. knowledge of frameworks if not explicitly stated in resume
+- You MUST NOT simply rephrase the resume, you should tailor the letter to the job posting instead
+
+- The cover letter should be 100 words in length. Adjust the length of each part accordingly.
+Please pay special attention to Requirements
+
+
+--- RESUME ---
+Denis Ivashkov
+Yerevan | +374 441 801 92 | ivashkovdv@gmail.com | LinkedIn
+ML engineer with over 6 years of experience in the tech industry. Initiated my career as a Java developer in the fintech sector, later transitioning into ML engineering, where I played a pivotal role in the development of products for international e-commerce giant AliExpress and the renowned global automotive leader Harman International. I've actively contributed to project work for AI services. Educational background encompasses a Master's degree in physics and technology.
+WORK EXPERIENCE
+2022 – present
+Senior ML Engineer
+HARMAN International, Yerevan
+Global leader in car audio and infotainment with over $8 billion in revenues
+Accomplishments:
+Enhanced driver stress detection accuracy by 11% with a wearable PPG sensor, showcasing an improvement in biometric analysis.
+Streamlined ML model validation, cutting down evaluation time from days to hours or minutes by refining validation algorithms.
+Established and maintained an internal seminar series for a year, delivering over 25 sessions to facilitate knowledge sharing among employees.
+07.2023 – 09.2023
+Senior ML Engineer (part time)
+Unleashing AI, Remote
+Startup brought over $1M in profit for the #1 search engine in Eastern Europe
+Accomplishments:
+Prototyped Contractor Invoice Verification System in the legal sector, overcoming data scarcity and tight deadlines. Delivered on time with a recall of 0.87 and a precision of 0.5, meeting client expectations.
+2019 – 2022
+
+
+ML Engineer
+AliExpress CIS, Moscow
+Global retail giant with hundreds of millions of users
+Accomplishments:
+Successfully collaborated with a team of data scientists to develop a comprehensive offline product matching pipeline, achieving a significant 60% increase in recall without compromising the stringent 95% precision benchmark.
+Led the creation and validation of a product title summarization model, resulting in a user preference rate of 78% over existing titles, including a 33% decisive win rate, while maintaining a remarkable 98% rate in factual accuracy.
+2018 – 2019
+ML Engineer
+Zarplata.ru, Novosibirsk – Top 3 job search site in Russia
+2017 – 2018
+
+
+Software Engineer
+Diasoft, Novosibirsk  – Leading financial software provider in Russia's banking sector
+
+EDUCATION
+2016
+
+
+National Research Tomsk Polytechnic University 
+Department of Nuclear Physics and Technologies, Master
+
+ADDITIONAL INFO
+Languages: English B2 (FCE Certificate), Russian native
+Technical Skills: Python, Java, PHP, LLM (BERT/GPT/T5-like), ChatGPT/GPT-4, PyTorch, Transformers, XGBoost, LightGBM, CatBoost, Linux, Docker, Bash, Postgre, Clickhouse, Airflow, MLflow, PySpark, MaxCompute, FAISS
+Certificates and trainings:
+2023, E-commerce Product Matching Competition, Moscow Innovation Agency, 4th place
+2023, Stable Diffusion – Image to Prompts, Kaggle, top 38%
+2019, IEEE-CIS Fraud Detection, Kaggle, top 10% (bronze medal)
+2023, Basics of Statistics, Bioinformatics Institute, Stepik 
+2022, System Design, Karpov Courses
+2020, Neural Networks and Computer Vision, Samsung, Stepik 
+2019, Math and Python for Data Analysis, Moscow Institute of Physics and Technology & Yandex, Coursera
+2018, Algorithmic Toolbox: Data Structures and Algorithms, University of California, Coursera 
+
+
+--- JOB POSTING ---
+Job Title
+NLP Algorithm Engineer - TikTok e-Commerce
+
+About the job
+Responsibilities
+
+ TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+
+About the team
+The team committed to understand the massive video content from TikTok and its affiliates, e-Commerce products and addresses on the platform through computer vision, natural language processing, and other technologies. We aim to provide global consumers with both high-quality and abundant commodity supply and improve the compliance and efficiency of the logistics fulfilment services, empowering different parts of the e-commerce shopping system.
+
+- Responsible for the analysis and understanding of the massive addresses by natural language processing algorithm, empowering different parts of the e-commerce shopping system, including search/recommendation, transactions, and fulfillment, improving the shopping experience
+- Responsible for the analysis and understanding of the text information from massive e-commerce contents and products, mining shopping trends and product attribute recognition, etc.
+- Explore NLP-related cutting-edge technologies and apply them to e-commerce business scenarios
+- Support the production of scalable and optimised AI/machine learning (ML) models 
+- Focus on building algorithms for the extraction, transformation and loading of large volumes of realtime, unstructured data to deploy AI/ML solutions from theoretical data science models
+- Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process
+- Work in a team setting and apply knowledge in statistics, scripting and programming languages required by the firm
+- Work with the relevant software platforms in which the models are deployed 
+
+Qualifications
+
+ - Minimum 3 year of work experience in related fields
+- Solid foundation of NLP algorithm, have in-depth study and practical experience in a certain field of natural language processing, including but not limited to: text classification, similarity matching, dialogue question and answer, machine translation, sequence tagging, Knowledge Graph, intention understanding, word meaning disambiguation and other fields
+- Familiar with at least one framework of TensorFlow / PyTorch / MXNet and its training and deployment details, familiar with commonly used machine learning and deep learning algorithms, understand the basic network model structure and text representation methods
+- Have strong practical ability, winners in relevant competitions, and have papers published at top academic conferences (such as ACL, EMNLP, etc.) are preferred as well
+- Experiences in e-commerce address, content analysis, and product attribute analysis are preferred
+Familiar with big data-related frameworks and applications, those who are familiar with MR or Spark are preferred
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+--- COVER LETTER ---
+...

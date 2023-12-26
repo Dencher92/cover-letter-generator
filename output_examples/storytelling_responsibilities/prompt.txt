@@ -1,0 +1,220 @@
+You are an experienced recruiter. Please generate an effective cover letter given a job application and a resume.
+
+Every job vacancy has basic requirements and key words, which you need to focus on.
+When composing a cover letter, try to answer the following questions:
+
+- What makes you a cool professional in your field?
+- What is your relevant experience for the position you are applying for?
+- Why do you want to work at this company and in this position?
+- What unique things can you offer the company while working in this position?
+
+Your letter MUST consist of the following parts:
+
+CL Title.
+(name, e-mail, phone number, possibly a link to LinkedIn). For example:
+Ivan Petrov, i.petrov@gmail.com | +47 5678 98765, LinkedIn (embedded link)
+
+Greeting.
+If you are writing to a specific person, then the person's name must be included (this will have a better effect).
+If you are just writing to a general mailbox, you can start like this:
+Dear Apple Recruiter,
+Dear Revolut,
+...
+
+
+Introduction (not yet a summary)
+The greeting continues with a short story about yourself. But this is not yet a summary; it is a demonstration of your very strong interest in the position.
+For example:
+My name is Ivan Petrov, I am really excited about applying for the role of Senior Product Analyst to be part of your thriving innovative company. I love what your brand stands for “Unlocking the power of a borderless economy, for everyone”. This resonates with my core value of “Making the world a better place by creating great products”. It would be a pleasure to be part of your vision and mission.
+
+Summary.
+This is a brief description of your professional profile in just 5-6 lines. Highlight the important things and remove the unnecessary for the specific vacancy. This is a brief story about you that visually demonstrates the logic of your career track and key competencies. Structure: N years of work experience, of which M in the current profession → Logic of career transitions → Key competency. Emphasize your value in some way: in users, products, countries, years, etc. The more numbers and specifics, the better. Key competencies should include exactly what you do best and what intersects with the main requirements of your profession. The summary can be slightly diluted with introductory words and an organic lead-in.
+
+
+Targeted Experience Description.
+To describe the targeted experience, you need to:
+Carefully read the requirements in the position description;
+Select 3-4 most important points from there;
+Describe your experience in a way that makes it clear how you used the competencies mentioned in the requirements.
+For example:
+Requirement: Experience selling complex products. In the cover letter: you tell about what and how you sold. It is important to visually show that this is a complex product and that you understand what you are talking about.
+
+Motivation.
+This is an indicator of interest for the employer.
+Good motivation is built on one of these points:
+- The company's product. You like the company's product, you use it yourself, it brings you value, and you sincerely want to make this product with the company;
+- Industry. You worked on the consulting or agency side, have broad knowledge of the market/successful cases, and are ready to apply the accumulated experience on the client side;
+- Career challenge. For you, the position you are applying for is the next career step. You have never held this position, but understand that you are ready and can. This is your career challenge;
+- Team. You are impressed by the founders, shareholders, or top management of the company. You like their career tracks, management style, or perhaps the previous companies they created or managed.
+Choose the most suitable point for this combination of resume and vacancy and use it.
+
+- You MUST include ALL the listed points in your letter in the EXACT ORDER listed.
+- You MUST use the following writing style: Dramatic Storytelling
+- You MUST rely on Hard Skills when writing the letter.
+
+- You MUST NOT just blindy copy provided examples, rather use them as guidance
+- You MUST NOT make up facts e.g. knowledge of frameworks if not explicitly stated in resume
+- You MUST NOT simply rephrase the resume, you should tailor the letter to the job posting instead
+
+- The cover letter should be 300 words in length. Adjust the length of each part accordingly.
+Please pay special attention to Responsibilities
+
+
+--- RESUME ---
+Diana Dawa
+Data Scientist
+
+Data Scientist with 4+ years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages, including Python and Java. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+
+diana@novoresume.com
+Palo Alto, CA
+linkedin.com/in/diana.dawa
+044 412 2020
+diana-dawa.com
+diana.dawa
+
+WORK EXPERIENCE
+
+Data Scientist
+Future Energy Ltd.
+Palo Alto, CA
+06/2018 - Present
+- Develop action plans to mitigate risks in decision making while increasing profitability by leveraging data science.
+- Drive the interaction and partnership between the managers to ensure active cooperation in identifying as well as defining analytical needs, and generate the pull-through of insights with the business.
+- Build predictive models using various machine learning tools to predict the possibility of equipment failure.
+- Develop algorithms using Natural Language Processing and Deep Learning models for predictive maintenance.
+- Design algorithms to track and detect anomalies in multiple sensors data for the Energy Industry.
+- Demonstrate knowledge and execution of application programming interface development and test automation.
+
+Data Analyst
+Theta Financial Group
+San Francisco, CA
+01/2016 - 05/2018
+- Utilized analytical and technical expertise to provide insights and proposals to support business improvements.
+- Evaluated analytical model findings in the Global Monitoring Report, the company's flagship product.
+- Conducted business analysis to understand business needs and requirements to translate into conceptual designs.
+- Actively engaged in the quantitative analysis of sophisticated modeling to address business issues.
+
+Business Analyst / Statistician
+Maxicare Healthcare
+02/2013 - 12/2015
+- Conducted business process analysis and identified critical issues, gaps, and needs for an established process center.
+- Developed Key Performance Indicators (KPI) and presented it to the management and led to the execution plan.
+- Analyzed and produced KPI reports allowing to monitor field service engineer and customer care center closely.
+- Led training sessions on the software developed and presented it to the management for approval of deployment.
+
+GENERAL SKILLS
+
+Data Visualization
+Machine Learning
+Deep Learning
+Pattern Recognition
+Database Structures & Algorithms
+Statistical Analysis
+Data Preparation
+Quality Management
+Agile Methodologies
+
+TECHNICAL SKILLS
+
+Operating System:
+Windows, MacOS, Linux
+
+Database/Server:
+My SQL, Postgres, SQL Server
+
+Programming Language:
+Python, scikit-learn, Python, OpenCV, D3.js, H2O.ai, Spark, Hadoop, R Programming, Django, Angular.js, HTML, SQL, JavaScript, PHP
+
+Other Software/Tools:
+Tableau, Deep Learning, Machine Learning, IP Cameras, AWS Services, Microsoft Azure
+
+CERTIFICATES
+
+Certification for Applied Data Analytics (2019)
+Cloudera Data Science Essentials Certificate (2018)
+Essentials of High Performance and Parallel Statistical Computing with R (2018)
+
+EDUCATION
+
+Master of Science in Computer Science and Informatics
+San Francisco University
+2014 - 2016
+
+INTERESTS
+
+Video Games
+Renewable Energy
+Music
+Artificial Intelligence
+
+
+--- JOB POSTING ---
+Job Title
+Data Scientist
+
+About the job
+WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform.
+
+WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement.
+
+Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it.
+
+The Role: We are seeking an exceptionally hardworking data scientist with strong modeling and programming skills to join our team. In this role, you will work on turning financial and alternative data into investment-ready datasets.
+
+Job Responsibilities (including, But Not Limited To, The Following)
+
+Work closely with data science and technology teams across the firm to develop appropriate features and metrics for data processing
+Turn unstructured data into enriched investment ready datasets. The primary focus will be in entities extraction
+Turn text data into internal infrastructure applying variety of algorithmic techniques
+Processing and cleansing of semi-structured and unstructured data
+Implementing high-performance algorithms for data processing
+Enrichment of company’s data by applying ML/NLP models
+
+Job Requirements
+
+Bachelors or Master degree in a technical or quantitative field from a top university
+Experience as a data scientist
+Good understanding of machine learning techniques and algorithms
+Proven understanding and experience in data engineering or software development
+Understanding of algorithms and data structures
+Focus on getting things done
+System design/architecture skills
+Strong Python/C++ programming skills
+A passion for working with data
+
+Additional Preferred Qualifications
+
+Experience with popular named-entity recognition platforms
+Experience with fuzzy text matching and spell checking systems
+Good understanding of Natural Language Processing techniques and algorithms
+While not required, a strong curiosity about financial markets will definitely be beneficial
+
+What We Offer
+
+Dynamic work without routine in a leading international company;
+Competitive compensation package, which may include annual bonuses and salary increases;
+Healthy work-life balance support (flexible start time, parental leave, sabbatical after 5 years of service etc);
+Possibility for business trips to the US and other countries;
+Regular team building, competitions and corporate events;
+Monthly team lunches;
+Medical insurance;
+Life insurance;
+Support program for employees and their relatives on psychological, legal, and financial issues;
+Parental leave program for secondary care givers;
+Culture of continuous learning: certification, online and offline training in Armenia and abroad, English classes, mentoring in professional development;
+Fruits & snacks in the office;
+Relocation package in certain cases
+
+Stages Of Our Recruitment Process
+
+CV review;
+Technical test;
+3 interviews (in case of successfully completed tests);
+3 more interviews (in case of successfully completed previous stage interviews);
+Decision.
+
+Position based in Yerevan, Armenia.
+
+--- COVER LETTER ---
+...

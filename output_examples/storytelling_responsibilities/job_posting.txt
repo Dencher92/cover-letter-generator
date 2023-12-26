@@ -1,0 +1,65 @@
+Job Title
+Data Scientist
+
+About the job
+WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform.
+
+WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement.
+
+Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it.
+
+The Role: We are seeking an exceptionally hardworking data scientist with strong modeling and programming skills to join our team. In this role, you will work on turning financial and alternative data into investment-ready datasets.
+
+Job Responsibilities (including, But Not Limited To, The Following)
+
+Work closely with data science and technology teams across the firm to develop appropriate features and metrics for data processing
+Turn unstructured data into enriched investment ready datasets. The primary focus will be in entities extraction
+Turn text data into internal infrastructure applying variety of algorithmic techniques
+Processing and cleansing of semi-structured and unstructured data
+Implementing high-performance algorithms for data processing
+Enrichment of company’s data by applying ML/NLP models
+
+Job Requirements
+
+Bachelors or Master degree in a technical or quantitative field from a top university
+Experience as a data scientist
+Good understanding of machine learning techniques and algorithms
+Proven understanding and experience in data engineering or software development
+Understanding of algorithms and data structures
+Focus on getting things done
+System design/architecture skills
+Strong Python/C++ programming skills
+A passion for working with data
+
+Additional Preferred Qualifications
+
+Experience with popular named-entity recognition platforms
+Experience with fuzzy text matching and spell checking systems
+Good understanding of Natural Language Processing techniques and algorithms
+While not required, a strong curiosity about financial markets will definitely be beneficial
+
+What We Offer
+
+Dynamic work without routine in a leading international company;
+Competitive compensation package, which may include annual bonuses and salary increases;
+Healthy work-life balance support (flexible start time, parental leave, sabbatical after 5 years of service etc);
+Possibility for business trips to the US and other countries;
+Regular team building, competitions and corporate events;
+Monthly team lunches;
+Medical insurance;
+Life insurance;
+Support program for employees and their relatives on psychological, legal, and financial issues;
+Parental leave program for secondary care givers;
+Culture of continuous learning: certification, online and offline training in Armenia and abroad, English classes, mentoring in professional development;
+Fruits & snacks in the office;
+Relocation package in certain cases
+
+Stages Of Our Recruitment Process
+
+CV review;
+Technical test;
+3 interviews (in case of successfully completed tests);
+3 more interviews (in case of successfully completed previous stage interviews);
+Decision.
+
+Position based in Yerevan, Armenia.

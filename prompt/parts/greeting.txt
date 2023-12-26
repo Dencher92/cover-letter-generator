@@ -1,0 +1,6 @@
+Greeting.
+If you are writing to a specific person, then the person's name must be included (this will have a better effect).
+If you are just writing to a general mailbox, you can start like this:
+Dear Apple Recruiter,
+Dear Revolut,
+...

@@ -1,0 +1,3 @@
+CL Title.
+(name, e-mail, phone number, possibly a link to LinkedIn). For example:
+Ivan Petrov, i.petrov@gmail.com | +47 5678 98765, LinkedIn (embedded link)
